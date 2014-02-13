@@ -9,13 +9,13 @@
 	<penalty>1</penalty>
 	<defaultgrade>1</defaultgrade>
 	<answer fraction="100">
-		<text>Ceci est la bonne réponse<text>
+		<text>Ceci est une bonne réponse<text>
 		<feedback>
 			<text>Bravo !</text>
 		</feedback>
 	</answer>
 	<answer fraction="100">
-		<text>Ceci est la bonne réponse<text>
+		<text>Ceci est une autre bonne réponse<text>
 		<feedback>
 			<text>Bravo !</text>
 		</feedback>
